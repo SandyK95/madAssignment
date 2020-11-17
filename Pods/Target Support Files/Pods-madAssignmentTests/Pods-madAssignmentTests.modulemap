@@ -1,0 +1,6 @@
+framework module Pods_madAssignmentTests {
+  umbrella header "Pods-madAssignmentTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
